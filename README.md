@@ -1,4 +1,4 @@
-# post-it
+# Post-It
 Similar to fb <br>
 <h1>Features</h1>
 <li>Sign up or login </li>
