@@ -1,5 +1,8 @@
 # Post It
 Similar to fb <br>
+<h1>MERN Project</h1>
+Added frontend and backend
+<br>
 <h1>Features</h1>
 <li>Sign up or login </li>
 <li>Log in or Log out</li>
