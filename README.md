@@ -7,6 +7,7 @@ Similar to fb <br>
 <li>Add or remove friends.</li>
 <li>Like their posts</li>
 <li>Comment on their posts</li>
+<li><strong>Change light and dark mode</strong></li>
 <br>
 <br>
 
